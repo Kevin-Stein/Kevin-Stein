@@ -1,9 +1,9 @@
 # welcome visitors
 
-Hi everyone, my name is Kevin and i moved to Hessen 2 months ago and I'm starting the Web Dev course next week.
 I have worked as a graphic designer/ DTP operator and advertising technician.
+
 I waste ;-) my free time on my two dogs and video games.
-I am looking forward to meeting you all.
+
 
 ![Chicken](https://as2.ftcdn.net/v2/jpg/05/79/50/05/1000_F_579500581_TGFXIIAb4hM6gB9XVEKMEELzQDs6kQhX.jpg)
 
