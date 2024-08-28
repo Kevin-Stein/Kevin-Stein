@@ -6,5 +6,4 @@ I'm now eager to transition into development for a couple of reasons. My wife is
 
 
 And don't forget chickens are awesome!
-![Chicken](https://as2.ftcdn.net/v2/jpg/05/79/50/05/1000_F_579500581_TGFXIIAb4hM6gB9XVEKMEELzQDs6kQhX.jpg)
-
+![AdobeStock_579500581](https://github.com/user-attachments/assets/b94cb19c-a71c-4760-9741-14d31d465f1e)
