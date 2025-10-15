@@ -13,4 +13,6 @@ In addition, I am currently completing a three-year vocational training programm
 - **Design:** Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Figma, SketchUp
 
 ## DETECTION SYSTEM ACTIVATED!!!
-![AdobeStock_579500581](https://github.com/user-attachments/assets/b94cb19c-a71c-4760-9741-14d31d465f1e =250x)
+<img src="![AdobeStock_579500581](https://github.com/user-attachments/assets/b94cb19c-a71c-4760-9741-14d31d465f1e)" alt="three staring chickens" width="200"/>
+
+
